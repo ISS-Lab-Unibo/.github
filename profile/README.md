@@ -6,7 +6,7 @@ We are a research group at the University of Bologna, Italy, specialised in the 
 
 ## What do we do?
 
-This group strives to develop intelligent sensor systems for multiple application fields, such as Structural Condition Monitoring, Biomedicine, Precision Agriculture. This is accomplished by combining heterogeneous technologies pertaining to the Micro-Electro-Mechanical-Systems (MEMS), signal processing, and sensor network fields.
+Our group strives to develop intelligent sensor systems for multiple application fields, such as Structural Condition Monitoring, Biomedicine, Precision Agriculture. This is accomplished by combining heterogeneous technologies pertaining to the Micro-Electro-Mechanical-Systems (MEMS), signal processing, and sensor network fields.
 
 ## What you'll find in this repository?
 
