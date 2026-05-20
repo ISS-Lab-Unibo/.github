@@ -2,7 +2,7 @@
 
 
 ## Who we are? 
-We are a research group at the University of Bologna, Italy, specialised in the development of embedded systems and advanced data processing.
+We are a research group of the University of Bologna, Italy, specialised in the development of embedded systems and advanced data processing.
 
 ## What do we do?
 
@@ -12,3 +12,4 @@ Our group strives to develop intelligent sensor systems for multiple application
 
 Here you will find datasets, software, firmware and project files made available by the group, completely free of charge.
 
+Datasets and projects are organised by topic: for device or prototype projects, the Gerber files, the firmware (along with the source code), and any 3D CAD files are made available together with the assembling instructions.
